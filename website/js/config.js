@@ -8,6 +8,6 @@ window._config = {
         invokeUrl: ' https://5hie47x5hj.execute-api.us-east-1.amazonaws.com/workspace_prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     },
     approval: {
-        email: 'ajaved@ztechstudio.com'
+        email: 'uhayat@ztechstudio.com'
     }
 };
